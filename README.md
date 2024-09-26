@@ -24,7 +24,7 @@ Create three subclasses ICEV, BEV, HybridV.**
 5.  **Each subclass of class Vehicle should have attribute the of class Manufacture
 and Engine.**
 6.  **Create arrays of Vechicle which contains objects of ICEV, BEV, HybridV.**
-7.  **Create arrays of Vechicle which contains objects of ICEV, BEV, HybridV.**
+7.  **Use method ShowCharacteristics() to demonstrate result.**
    
 
 
