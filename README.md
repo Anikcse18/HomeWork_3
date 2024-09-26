@@ -10,8 +10,6 @@ This repository contains solutions for a Java problems. This repository contains
 You may find my solution: **src > HW_3 > allsolution**
 
 ## Problem Descriptions
-Create class Car: id, Make, Model, Year of manufacture, Color, Price, Registration number. Create an array of objects.
-Save to the different files
 
 1. **Modify previous HomeTask2 and create a following hierarchy**
    
